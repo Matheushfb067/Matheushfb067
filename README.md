@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p>
 <div align="center">
   <a href="https://github.com/Matheushfb067">
