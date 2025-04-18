@@ -7,6 +7,10 @@
 
 <!--![Matheu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight)11-->
 
+---
+
+### <h2 align="center">📲 Connect with me</h2>
+
 <div align="center">
   <a href="https://www.instagram.com/matheus_hfb">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
