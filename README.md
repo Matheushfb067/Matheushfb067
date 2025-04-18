@@ -31,19 +31,6 @@
   </a>
 </div>
 
-<!--
-<div align="center">
-  <a href="https://www.instagram.com/matheus_hfb" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" style="margin: 0 25px;" alt="Instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/mateus-henrique-fb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" style="margin: 0 25px;" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:matheushenrihfg0@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" style="margin: 0 25px;" alt="Gmail logo" />
-  </a>
-</div> -->
-
 ---
 
 ### <h2 align="center">🚀 Technologies I’m Learning</h2>
@@ -57,15 +44,6 @@
   <!-- Logo do Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
-
-<!--
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-</div> -->
   
 </div>
 
