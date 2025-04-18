@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" style="margin: 10px;" alt="Instagram logo" />
   </a>
   <a href="https://github.com/Matheushfb067" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40" style="margin: 10px;" alt="GitHub logo (white background)" />
+    <img src="LINK_DA_IMAGEM" height="40" style="margin: 10px;" alt="GitHub logo personalizado" />
   </a>
   <a href="https://www.linkedin.com/in/mateus-henrique-fb/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" style="margin: 10px;" alt="LinkedIn logo" />
