@@ -7,6 +7,13 @@
 
 <!--![Matheu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight)11-->
 
+### <h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
 ---
 
 ### <h2 align="center">📲 Connect with me</h2>
@@ -24,15 +31,6 @@
   <a href="mailto:matheus.hfb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
----
-
-### <h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
