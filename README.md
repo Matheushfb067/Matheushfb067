@@ -3,8 +3,6 @@
 
 ![Matheu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight)
 
-###
-
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/matheus_hfb)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheushfb067?tab=repositories)
