@@ -1,4 +1,3 @@
-<div align="center">
 Hi 👋 I`m M. Henrique 
 
 ![Matheu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight)
