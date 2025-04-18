@@ -67,6 +67,13 @@
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
 </div>
 
+### <h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusNetto1/MatheusNetto1/output/pacman-contribution-graph-dark.svg">
