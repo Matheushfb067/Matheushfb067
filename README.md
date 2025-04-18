@@ -28,7 +28,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusNetto1/MatheusNetto1/output/pacman-contribution-graph.svg">
 </picture>
     
-### Other`s
+### <h2>Other`s</h2>
 
 [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)]()
