@@ -1,6 +1,4 @@
-<h2>
-  Hi 👋 I`m M. Henrique 
-</h2>
+<h2>Hi 👋 I`m M. Henrique </h2>
 
 
 ![Matheu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight)
@@ -11,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-fb/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
-### 💻Tecnologies I`m Learning!
+### <h2>💻Tecnologies I`m Learning!</h2>
 
 ### Front-end
 
