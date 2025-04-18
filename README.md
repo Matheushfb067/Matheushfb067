@@ -67,6 +67,8 @@
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
 </div>
 
+---
+
 ### <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
