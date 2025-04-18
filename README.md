@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/matheus_hfb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" style="margin: 10px;" alt="instagram logo" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" style="margin: 10px; filter: invert(14%) sepia(77%) saturate(7453%) hue-rotate(329deg) brightness(97%) contrast(99%);" alt="instagram logo" />
   </a>
   <a href="https://github.com/Matheushfb067" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin: 10px;" alt="github logo" />
