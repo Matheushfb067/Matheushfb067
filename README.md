@@ -28,22 +28,14 @@
 
 ---
 
-<!--
-<div align="center">
-  <a href="https://www.instagram.com/matheus_hfb">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Matheushfb067?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mateus-henrique-fb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>-->
+### <h2 align="center">📊 GitHub Stats</h2>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+---
 
 ### <h2 align="center">🚀 Technologies I’m Learning</h2>
 
@@ -67,15 +59,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-</div>
-
----
-
-### <h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
