@@ -20,23 +20,20 @@
 
 <div align="center">
   <a href="https://www.instagram.com/matheus_hfb" target="_blank" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; margin: 20px; padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" style="margin-right: 10px;" alt="Instagram logo" />
-      <span style="font-size: 16px; color: #2F80ED;">Instagram</span>
+    <div style="display: inline-block; margin: 20px; padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" alt="Instagram logo" />
     </div>
   </a>
   
   <a href="https://www.linkedin.com/in/mateus-henrique-fb/" target="_blank" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; margin: 20px; padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" style="margin-right: 10px;" alt="LinkedIn logo" />
-      <span style="font-size: 16px; color: #2F80ED;">LinkedIn</span>
+    <div style="display: inline-block; margin: 20px; padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" alt="LinkedIn logo" />
     </div>
   </a>
   
   <a href="mailto:matheus.hfb@gmail.com" target="_blank" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; margin: 20px; padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" style="margin-right: 10px;" alt="Gmail logo" />
-      <span style="font-size: 16px; color: #2F80ED;">Gmail</span>
+    <div style="display: inline-block; margin: 20px; padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail logo" />
     </div>
   </a>
 </div>
