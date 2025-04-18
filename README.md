@@ -18,26 +18,7 @@
 
 ### <h2 align="center">📲 Connect with me</h2>
 
-<div align="center" style="display: flex; justify-content: space-between; width: 50%; margin: 0 auto;">
-  <a href="https://www.instagram.com/matheus_hfb" target="_blank" style="text-decoration: none;">
-    <div style="padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" alt="Instagram logo" />
-    </div>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/mateus-henrique-fb/" target="_blank" style="text-decoration: none;">
-    <div style="padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" alt="LinkedIn logo" />
-    </div>
-  </a>
-  
-  <a href="mailto:matheus.hfb@gmail.com" target="_blank" style="text-decoration: none;">
-    <div style="padding: 10px; border: 2px solid #2F80ED; border-radius: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail logo" />
-    </div>
-  </a>
-</div>
-<!--<div align="center">
+<div align="center">
   <a href="https://www.instagram.com/matheus_hfb" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" style="margin: 0 25px;" alt="Instagram logo" />
   </a>
@@ -47,7 +28,7 @@
   <a href="mailto:matheus.hfb@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" style="margin: 0 25px;" alt="Gmail logo" />
   </a>
-</div>-->
+</div>
 
 ---
 
