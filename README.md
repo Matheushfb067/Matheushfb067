@@ -18,6 +18,19 @@
 
 ### <h2 align="center">📲 Connect with me</h2>
 
+
+<div align="center">
+  <a href="https://www.instagram.com/matheus_hfb" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" style="margin: 0 25px;" alt="Instagram logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateus-henrique-fb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" style="margin: 0 25px;" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:matheus.hfb@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" style="margin: 0 25px;" alt="Gmail logo" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://www.instagram.com/matheus_hfb" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" style="margin: 0 25px;" alt="Instagram logo" />
