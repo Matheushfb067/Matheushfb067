@@ -20,16 +20,16 @@
 
 <div align="center">
   <a href="https://www.instagram.com/matheus_hfb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" style="margin: 10px; filter: invert(14%) sepia(77%) saturate(7453%) hue-rotate(329deg) brightness(97%) contrast(99%);" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" style="margin: 10px;" alt="Instagram logo" />
   </a>
   <a href="https://github.com/Matheushfb067" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin: 10px;" alt="github logo" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40" style="margin: 10px;" alt="GitHub logo" />
   </a>
   <a href="https://www.linkedin.com/in/mateus-henrique-fb/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" style="margin: 10px;" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" style="margin: 10px;" alt="LinkedIn logo" />
   </a>
   <a href="mailto:matheus.hfb@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" style="margin: 10px;" alt="gmail logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" style="margin: 10px;" alt="Gmail logo" />
   </a>
 </div>
 
