@@ -20,7 +20,7 @@
 
 ### <h2 align="center">💻Tecnologies I`m Learning!</h2>
 
-### Front-end
+### <h3 align="center"> Front-end</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### Back-end
+### <h3 align="center">Back-end</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
