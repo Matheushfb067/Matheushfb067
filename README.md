@@ -26,6 +26,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
+---
+
+#### <h2 align="center">🔧 Other Tools</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" />  
+</div>
+
 ### <h2 align="center">📲 Connect with me</h2>
 
 <div align="center">
@@ -41,16 +51,6 @@
   <a href="https://github.com/matheushfb067" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=6e00f3&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="GitHub logo" />
   </a>
-</div>
-
----
-
-#### <h2 align="center">🔧 Other Tools</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" />  
 </div>
 
 ---
