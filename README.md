@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" />  
 </div>
 
+---
+
 ### <h2 align="center">📲 Connect with me</h2>
 
 <div align="center">
