@@ -8,7 +8,7 @@
 ### <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight&cache=1" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=30" />
 
 </div>
