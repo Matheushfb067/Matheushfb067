@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋 I`m M. Henrique </h2>
+<h3 align="center">🛠️ Technician in Electronics with Emphasis on Systems Development</h3>
 <h3 align="center">💻 Software Engineering Student | 4rd Period</h3>
 
 <p align="center">
