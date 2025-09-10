@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋 I`m M. Henrique </h2>
 <h3 align="center">🛠️ Technician in Electronics with Emphasis on Systems Development</h3>
-<h3 align="center">💻 Software Engineering Student | 4rd Period</h3>
+<h3 align="center">💻 Software Engineering Student | 5rd Period</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+code+%26+technology!;Always+learning+something+new+%F0%9F%92%BB" />
