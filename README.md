@@ -16,7 +16,7 @@
 
 ---
 
-### <h2 align="center">🚀 Technologies I’m Learning</h2>
+### <h2 align="center">🚀 Technologies I’m Continuously Learning</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 45px; width: 45px; margin: 4px;" />
@@ -29,13 +29,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 45px; width: 45px; margin: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height: 45px; width: 45px; margin: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 45px; width: 45px; margin: 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height: 45px; width: 45px; margin: 4px;"/>
 </div>
 
 ---
 
 #### <h2 align="center">🔧 Other Tools</h2>
 
-<div align="center">
+<div align="center">continuously
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 45px; width: 45px; margin: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 45px; width: 45px; margin: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height: 45px; width: 45px; margin: 4px;" />
