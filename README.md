@@ -9,18 +9,18 @@
 ### <h2 align="center">📊 GitHub Stats</h2>
 
 <table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true"
-      />
-    </td>
-  </tr>
+<tr>
+<td>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+</td>
+<td>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
 </table>
 
 ---
