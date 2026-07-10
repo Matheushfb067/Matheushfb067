@@ -10,7 +10,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=380"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=320"
   />
 
   <img
