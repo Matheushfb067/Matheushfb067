@@ -10,10 +10,10 @@
 
 <div align="center">
 
-  <img height="165em"
+  <img height="150em"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img height="165em"
+  <img height="150em"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true"/>
 
 </div>
