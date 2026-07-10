@@ -17,8 +17,9 @@
 </td>
 <td>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=tokyonight&hide_border=true"/>
-
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&card_width=420"
+/>
 </td>
 </tr>
 </table>
