@@ -8,7 +8,7 @@
 
 ### <h2 align="center">📊 GitHub Stats</h2>
 
-<table align="center">
+<div align="center">
 <tr>
 <td>
 
@@ -22,7 +22,7 @@
 />
 </td>
 </tr>
-</table>
+</div>
 
 ---
 
