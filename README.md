@@ -10,13 +10,13 @@
 
 <div align="center">
   <img
-    width="47%"
+    width="48%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   />
 
   <img
-    width="47%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true"
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&card_width=320"
   />
 </div>
 
