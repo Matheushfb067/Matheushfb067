@@ -6,19 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+code+%26+technology!;Always+learning+something+new+%F0%9F%92%BB" />
 </p>
 
-### <h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheushfb067&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheushfb067&layout=compact&langs_count=12&theme=tokyonight&hide_border=true"
-  />
-</p>
-
 ---
 
 ### <h2 align="center">🚀 Technologies I’m Continuously Learning</h2>
